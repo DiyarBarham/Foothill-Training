@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{3F3F9458-5E99-45BC-BF75-C50D4C94CDA3}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.GroupAnagrams FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.GroupAnagrams PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GroupAnagrams/Program.cs">
+    <Files>
+      <File FileName="GroupAnagrams/Program.cs" Line="11" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GroupAnagrams" expanded="True">
+            <Node name="GroupAnagrams" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
