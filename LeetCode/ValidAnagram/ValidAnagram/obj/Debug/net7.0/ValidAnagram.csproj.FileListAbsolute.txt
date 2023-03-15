@@ -1,0 +1,15 @@
+/Users/ameer1/Development/Foothill Training/LeetCode/ValidAnagram/ValidAnagram/bin/Debug/net7.0/ValidAnagram
+/Users/ameer1/Development/Foothill Training/LeetCode/ValidAnagram/ValidAnagram/bin/Debug/net7.0/ValidAnagram.deps.json
+/Users/ameer1/Development/Foothill Training/LeetCode/ValidAnagram/ValidAnagram/bin/Debug/net7.0/ValidAnagram.runtimeconfig.json
+/Users/ameer1/Development/Foothill Training/LeetCode/ValidAnagram/ValidAnagram/bin/Debug/net7.0/ValidAnagram.dll
+/Users/ameer1/Development/Foothill Training/LeetCode/ValidAnagram/ValidAnagram/bin/Debug/net7.0/ValidAnagram.pdb
+/Users/ameer1/Development/Foothill Training/LeetCode/ValidAnagram/ValidAnagram/obj/Debug/net7.0/ValidAnagram.csproj.AssemblyReference.cache
+/Users/ameer1/Development/Foothill Training/LeetCode/ValidAnagram/ValidAnagram/obj/Debug/net7.0/ValidAnagram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ameer1/Development/Foothill Training/LeetCode/ValidAnagram/ValidAnagram/obj/Debug/net7.0/ValidAnagram.AssemblyInfoInputs.cache
+/Users/ameer1/Development/Foothill Training/LeetCode/ValidAnagram/ValidAnagram/obj/Debug/net7.0/ValidAnagram.AssemblyInfo.cs
+/Users/ameer1/Development/Foothill Training/LeetCode/ValidAnagram/ValidAnagram/obj/Debug/net7.0/ValidAnagram.csproj.CoreCompileInputs.cache
+/Users/ameer1/Development/Foothill Training/LeetCode/ValidAnagram/ValidAnagram/obj/Debug/net7.0/ValidAnagram.dll
+/Users/ameer1/Development/Foothill Training/LeetCode/ValidAnagram/ValidAnagram/obj/Debug/net7.0/refint/ValidAnagram.dll
+/Users/ameer1/Development/Foothill Training/LeetCode/ValidAnagram/ValidAnagram/obj/Debug/net7.0/ValidAnagram.pdb
+/Users/ameer1/Development/Foothill Training/LeetCode/ValidAnagram/ValidAnagram/obj/Debug/net7.0/ValidAnagram.genruntimeconfig.cache
+/Users/ameer1/Development/Foothill Training/LeetCode/ValidAnagram/ValidAnagram/obj/Debug/net7.0/ref/ValidAnagram.dll
