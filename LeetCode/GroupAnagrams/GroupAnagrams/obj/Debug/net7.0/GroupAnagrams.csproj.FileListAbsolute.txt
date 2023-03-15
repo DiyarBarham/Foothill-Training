@@ -1,0 +1,15 @@
+/Users/ameer1/Development/Foothill Training/LeetCode/GroupAnagrams/GroupAnagrams/bin/Debug/net7.0/GroupAnagrams
+/Users/ameer1/Development/Foothill Training/LeetCode/GroupAnagrams/GroupAnagrams/bin/Debug/net7.0/GroupAnagrams.deps.json
+/Users/ameer1/Development/Foothill Training/LeetCode/GroupAnagrams/GroupAnagrams/bin/Debug/net7.0/GroupAnagrams.runtimeconfig.json
+/Users/ameer1/Development/Foothill Training/LeetCode/GroupAnagrams/GroupAnagrams/bin/Debug/net7.0/GroupAnagrams.dll
+/Users/ameer1/Development/Foothill Training/LeetCode/GroupAnagrams/GroupAnagrams/bin/Debug/net7.0/GroupAnagrams.pdb
+/Users/ameer1/Development/Foothill Training/LeetCode/GroupAnagrams/GroupAnagrams/obj/Debug/net7.0/GroupAnagrams.csproj.AssemblyReference.cache
+/Users/ameer1/Development/Foothill Training/LeetCode/GroupAnagrams/GroupAnagrams/obj/Debug/net7.0/GroupAnagrams.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ameer1/Development/Foothill Training/LeetCode/GroupAnagrams/GroupAnagrams/obj/Debug/net7.0/GroupAnagrams.AssemblyInfoInputs.cache
+/Users/ameer1/Development/Foothill Training/LeetCode/GroupAnagrams/GroupAnagrams/obj/Debug/net7.0/GroupAnagrams.AssemblyInfo.cs
+/Users/ameer1/Development/Foothill Training/LeetCode/GroupAnagrams/GroupAnagrams/obj/Debug/net7.0/GroupAnagrams.csproj.CoreCompileInputs.cache
+/Users/ameer1/Development/Foothill Training/LeetCode/GroupAnagrams/GroupAnagrams/obj/Debug/net7.0/GroupAnagrams.dll
+/Users/ameer1/Development/Foothill Training/LeetCode/GroupAnagrams/GroupAnagrams/obj/Debug/net7.0/refint/GroupAnagrams.dll
+/Users/ameer1/Development/Foothill Training/LeetCode/GroupAnagrams/GroupAnagrams/obj/Debug/net7.0/GroupAnagrams.pdb
+/Users/ameer1/Development/Foothill Training/LeetCode/GroupAnagrams/GroupAnagrams/obj/Debug/net7.0/GroupAnagrams.genruntimeconfig.cache
+/Users/ameer1/Development/Foothill Training/LeetCode/GroupAnagrams/GroupAnagrams/obj/Debug/net7.0/ref/GroupAnagrams.dll
