@@ -21,9 +21,30 @@ namespace ACM.BL
             return product;
         }
 
-        public bool Save()
+        public bool Save(Product product)
         {
-            return true;
+            bool success = true;
+
+            if (product.hasChanges)
+            {
+                if (product.isValid)
+                {
+                    if (product.isNew)
+                    {
+
+                    }
+                    else
+                    {
+
+                    }
+                }
+                else
+                {
+                    return false;
+                }
+            }
+
+            return success;
         }
     }
 }

@@ -8,7 +8,7 @@ public class Customer
     public String fullName { get {
             return firstName + ", " + lastName;} }
     public List<Address> addressList { get; set; }
-    public int customerType { get; set; }
+    public int customerType { get; set; } 
 
     public Customer(): this(0 )
     {

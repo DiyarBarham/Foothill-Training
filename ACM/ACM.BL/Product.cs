@@ -1,7 +1,7 @@
 ﻿using System;
 namespace ACM.BL
 {
-	public class Product
+	public class Product : EntityClass
 	{
         public decimal? currentPrice { get; set; }
         public String productDescription { get; set; }
@@ -17,7 +17,7 @@ namespace ACM.BL
             this.productID = productID;
         }
 
-        public bool Validate()
+        public override bool Validate()
         {
             bool isValid = true;
 
