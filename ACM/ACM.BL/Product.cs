@@ -17,11 +17,6 @@ namespace ACM.BL
             this.productID = productID;
         }
 
-        public bool Save()
-        {
-            return true;
-        }
-
         public bool Validate()
         {
             bool isValid = true;

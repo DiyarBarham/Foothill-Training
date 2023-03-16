@@ -15,16 +15,6 @@ namespace ACM.BL
 			this.orderID = orderID;
         }
 
-		public Order Retrieve(int orderID)
-		{
-			return new Order();
-		}
-
-		public bool Save()
-		{
-			return true;
-		}
-
 		public bool Validate()
 		{
 			bool isValid = true;
