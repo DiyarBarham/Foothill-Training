@@ -5,6 +5,9 @@ namespace ACM.BL
 	{
 		public DateTimeOffset? orderDate { get; set; }
 		public int orderID { get; private set; }
+		public int customerID { get; set; }
+		public int shippingAddressID { get; set; }
+		public List<OrderItem> OrderItems { get; set; }
 
 		public Order()
 		{
@@ -13,6 +16,7 @@ namespace ACM.BL
         public Order(int orderID)
         {
 			this.orderID = orderID;
+			OrderItems = new List<OrderItem>(); 
         }
 
 		public bool Validate()

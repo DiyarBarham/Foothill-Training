@@ -70,7 +70,7 @@ namespace ACM.BLTest
             Assert.AreEqual(expected.emailAddress, actual.emailAddress);
             Assert.AreEqual(expected.firstName, actual.firstName);
             Assert.AreEqual(expected.lastName, actual.lastName);
-
+			
 			for(int i=0; i < 2; i++)
 			{
 				Assert.AreEqual(expected.addressList[i].city, actual.addressList[i].city);
