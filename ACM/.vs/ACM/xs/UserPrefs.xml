@@ -1,4 +1,30 @@
-﻿<Properties>
+﻿<Properties StartupConfiguration="{BECA2D91-8D15-47B0-9FC6-0A35869CE395}|Default">
   <MonoDevelop.Ide.ItemProperties.ACM.BL FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Tests.ACM.BLTest FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tests/ACM.BLTest/Usings.cs">
+    <Files>
+      <File FileName="ACM.BL/Class1.cs" Line="3" Column="2" />
+      <File FileName="Tests/ACM.BLTest/UnitTest1.cs" Line="7" Column="21" />
+      <File FileName="Tests/ACM.BLTest/Usings.cs" Line="1" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ACM" expanded="True">
+            <Node name="Tests" expanded="True">
+              <Node name="ACM.BLTest" selected="True" />
+              <Node name="ACM.BLTest" expanded="True" />
+            </Node>
+            <Node name="ACM.BL" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>

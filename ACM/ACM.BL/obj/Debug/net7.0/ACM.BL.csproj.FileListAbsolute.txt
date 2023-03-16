@@ -1,0 +1,12 @@
+/Users/ameer1/Development/Foothill Training/ACM/ACM.BL/bin/Debug/net7.0/ACM.BL.deps.json
+/Users/ameer1/Development/Foothill Training/ACM/ACM.BL/bin/Debug/net7.0/ACM.BL.dll
+/Users/ameer1/Development/Foothill Training/ACM/ACM.BL/bin/Debug/net7.0/ACM.BL.pdb
+/Users/ameer1/Development/Foothill Training/ACM/ACM.BL/obj/Debug/net7.0/ACM.BL.csproj.AssemblyReference.cache
+/Users/ameer1/Development/Foothill Training/ACM/ACM.BL/obj/Debug/net7.0/ACM.BL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ameer1/Development/Foothill Training/ACM/ACM.BL/obj/Debug/net7.0/ACM.BL.AssemblyInfoInputs.cache
+/Users/ameer1/Development/Foothill Training/ACM/ACM.BL/obj/Debug/net7.0/ACM.BL.AssemblyInfo.cs
+/Users/ameer1/Development/Foothill Training/ACM/ACM.BL/obj/Debug/net7.0/ACM.BL.csproj.CoreCompileInputs.cache
+/Users/ameer1/Development/Foothill Training/ACM/ACM.BL/obj/Debug/net7.0/ACM.BL.dll
+/Users/ameer1/Development/Foothill Training/ACM/ACM.BL/obj/Debug/net7.0/refint/ACM.BL.dll
+/Users/ameer1/Development/Foothill Training/ACM/ACM.BL/obj/Debug/net7.0/ACM.BL.pdb
+/Users/ameer1/Development/Foothill Training/ACM/ACM.BL/obj/Debug/net7.0/ref/ACM.BL.dll
