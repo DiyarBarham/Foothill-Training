@@ -54,6 +54,6 @@ public class CustomerTest
         bool result = customer.Validate();
 
         //Assert
-        Assert.AreEqual(expected, result);
+        Assert.AreEqual(expect ed, result);
     }
 } 

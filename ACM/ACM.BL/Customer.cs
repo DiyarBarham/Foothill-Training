@@ -8,6 +8,15 @@ public class Customer
     public String fullName { get {
             return firstName + ", " + lastName;} }
 
+    public Customer()
+    {
+
+    }
+
+    public Customer(int customerID)
+    {
+        this.customerID = customerID;
+    }
 
     public bool Validate()
     {
