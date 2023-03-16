@@ -7,8 +7,9 @@ public class Customer
     public String lastName { get; set; }
     public String fullName { get {
             return firstName + ", " + lastName;} }
+    public List<Address> addressList { get; set; }
 
-    public Customer()
+    public Customer(): this(0 )
     {
 
     }
@@ -16,6 +17,7 @@ public class Customer
     public Customer(int customerID)
     {
         this.customerID = customerID;
+        addressList = new List<Address>( );
     }
 
     public bool Validate()
