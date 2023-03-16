@@ -25,6 +25,11 @@ public class Customer
         return new Customer();
     }
 
+    public List<Customer> Retrieve()
+    {
+        return new List<Customer>();
+    }
+
     public bool save()
     {
         return true;
