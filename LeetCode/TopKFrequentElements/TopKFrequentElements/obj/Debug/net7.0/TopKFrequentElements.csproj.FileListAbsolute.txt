@@ -1,0 +1,15 @@
+/Users/ameer1/Development/Foothill Training/LeetCode/TopKFrequentElements/TopKFrequentElements/bin/Debug/net7.0/TopKFrequentElements
+/Users/ameer1/Development/Foothill Training/LeetCode/TopKFrequentElements/TopKFrequentElements/bin/Debug/net7.0/TopKFrequentElements.deps.json
+/Users/ameer1/Development/Foothill Training/LeetCode/TopKFrequentElements/TopKFrequentElements/bin/Debug/net7.0/TopKFrequentElements.runtimeconfig.json
+/Users/ameer1/Development/Foothill Training/LeetCode/TopKFrequentElements/TopKFrequentElements/bin/Debug/net7.0/TopKFrequentElements.dll
+/Users/ameer1/Development/Foothill Training/LeetCode/TopKFrequentElements/TopKFrequentElements/bin/Debug/net7.0/TopKFrequentElements.pdb
+/Users/ameer1/Development/Foothill Training/LeetCode/TopKFrequentElements/TopKFrequentElements/obj/Debug/net7.0/TopKFrequentElements.csproj.AssemblyReference.cache
+/Users/ameer1/Development/Foothill Training/LeetCode/TopKFrequentElements/TopKFrequentElements/obj/Debug/net7.0/TopKFrequentElements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ameer1/Development/Foothill Training/LeetCode/TopKFrequentElements/TopKFrequentElements/obj/Debug/net7.0/TopKFrequentElements.AssemblyInfoInputs.cache
+/Users/ameer1/Development/Foothill Training/LeetCode/TopKFrequentElements/TopKFrequentElements/obj/Debug/net7.0/TopKFrequentElements.AssemblyInfo.cs
+/Users/ameer1/Development/Foothill Training/LeetCode/TopKFrequentElements/TopKFrequentElements/obj/Debug/net7.0/TopKFrequentElements.csproj.CoreCompileInputs.cache
+/Users/ameer1/Development/Foothill Training/LeetCode/TopKFrequentElements/TopKFrequentElements/obj/Debug/net7.0/TopKFrequentElements.dll
+/Users/ameer1/Development/Foothill Training/LeetCode/TopKFrequentElements/TopKFrequentElements/obj/Debug/net7.0/refint/TopKFrequentElements.dll
+/Users/ameer1/Development/Foothill Training/LeetCode/TopKFrequentElements/TopKFrequentElements/obj/Debug/net7.0/TopKFrequentElements.pdb
+/Users/ameer1/Development/Foothill Training/LeetCode/TopKFrequentElements/TopKFrequentElements/obj/Debug/net7.0/TopKFrequentElements.genruntimeconfig.cache
+/Users/ameer1/Development/Foothill Training/LeetCode/TopKFrequentElements/TopKFrequentElements/obj/Debug/net7.0/ref/TopKFrequentElements.dll

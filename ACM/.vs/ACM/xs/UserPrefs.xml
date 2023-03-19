@@ -6,12 +6,13 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Tests.ACM.BLTest PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ACM.BL/EntityClass.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tests/Acme.CommonTest/LoggingServiceTest.cs">
     <Files>
-      <File FileName="ACM.BL/Product.cs" Line="14" Column="50" />
-      <File FileName="ACM.BL/Order.cs" Line="1" Column="1" />
-      <File FileName="ACM.BL/Customer.cs" Line="15" Column="30" />
-      <File FileName="ACM.BL/EntityClass.cs" Line="9" Column="23" />
+      <File FileName="Acme.common/LoggingService.cs" Line="12" Column="4" />
+      <File FileName="Acme.common/ILoggable.cs" Line="6" Column="16" />
+      <File FileName="ACM.BL/Product.cs" Line="31" Column="1" />
+      <File FileName="ACM.BL/Order.cs" Line="37" Column="2" />
+      <File FileName="Tests/Acme.CommonTest/LoggingServiceTest.cs" Line="22" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -21,9 +22,7 @@
               <Node name="ACM.BLTest" expanded="True" />
               <Node name="Acme.CommonTest" expanded="True" />
             </Node>
-            <Node name="ACM.BL" expanded="True">
-              <Node name="EntityClass.cs" selected="True" />
-            </Node>
+            <Node name="ACM.BL" expanded="True" />
             <Node name="Acme.common" expanded="True" />
           </Node>
         </State>
