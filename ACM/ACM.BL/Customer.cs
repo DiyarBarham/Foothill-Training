@@ -1,5 +1,11 @@
-﻿namespace ACM.BL;
-public class Customer
+﻿using System;
+using Acme.common;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+namespace ACM.BL;
+public class Customer : EntityClass, ILoggable
 {
     public String emailAddress { get; set; }
     public int customerID{ get; private set; }
@@ -10,7 +16,7 @@ public class Customer
     public List<Address> addressList { get; set; }
     public int customerType { get; set; } 
 
-    public Customer(): this(0 )
+    public Customer(): this(0)
     {
 
     }
@@ -21,7 +27,7 @@ public class Customer
         addressList = new List<Address>( );
     }
 
-    public bool Validate()
+    public override bool Validate()
     {
         bool isValid = true;
 
@@ -32,5 +38,9 @@ public class Customer
         return isValid;
     }
 
+    public string Log() =>
+        $"{customerID}: {fullName} Email: {emailAddress} Status: {entityState.ToString()}";
+
+    public override string ToString() => fullName;
 }
 

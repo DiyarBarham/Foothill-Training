@@ -10,3 +10,6 @@
 /Users/ameer1/Development/Foothill Training/ACM/ACM.BL/obj/Debug/net7.0/refint/ACM.BL.dll
 /Users/ameer1/Development/Foothill Training/ACM/ACM.BL/obj/Debug/net7.0/ACM.BL.pdb
 /Users/ameer1/Development/Foothill Training/ACM/ACM.BL/obj/Debug/net7.0/ref/ACM.BL.dll
+/Users/ameer1/Development/Foothill Training/ACM/ACM.BL/bin/Debug/net7.0/Acme.common.dll
+/Users/ameer1/Development/Foothill Training/ACM/ACM.BL/bin/Debug/net7.0/Acme.common.pdb
+/Users/ameer1/Development/Foothill Training/ACM/ACM.BL/obj/Debug/net7.0/ACM.BL.csproj.CopyComplete

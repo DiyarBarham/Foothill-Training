@@ -1905,11 +1905,24 @@
       "ACM.BL/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Acme.common": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/ACM.BL.dll": {}
         },
         "runtime": {
           "bin/placeholder/ACM.BL.dll": {}
+        }
+      },
+      "Acme.common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Acme.common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Acme.common.dll": {}
         }
       }
     }
@@ -6776,6 +6789,11 @@
       "type": "project",
       "path": "../../ACM.BL/ACM.BL.csproj",
       "msbuildProject": "../../ACM.BL/ACM.BL.csproj"
+    },
+    "Acme.common/1.0.0": {
+      "type": "project",
+      "path": "../../Acme.common/Acme.common.csproj",
+      "msbuildProject": "../../Acme.common/Acme.common.csproj"
     }
   },
   "projectFileDependencyGroups": {

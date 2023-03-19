@@ -1129,8 +1129,16 @@
         }
       },
       "ACM.BL/1.0.0": {
+        "dependencies": {
+          "Acme.common": "1.0.0"
+        },
         "runtime": {
           "ACM.BL.dll": {}
+        }
+      },
+      "Acme.common/1.0.0": {
+        "runtime": {
+          "Acme.common.dll": {}
         }
       },
       "Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions/14.0.0.0": {
@@ -1815,6 +1823,11 @@
       "hashPath": "system.xml.xmldocument.4.3.0.nupkg.sha512"
     },
     "ACM.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Acme.common/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

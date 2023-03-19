@@ -6,4 +6,7 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Acme.common\Acme.common.csproj" />
+  </ItemGroup>
 </Project>

@@ -1,7 +1,9 @@
 ﻿using System;
+using Acme.common;
+
 namespace ACM.BL
 {
-	public class Order
+	public class Order : EntityClass, ILoggable
 	{
 		public DateTimeOffset? orderDate { get; set; }
 		public int orderID { get; private set; }
@@ -16,10 +18,10 @@ namespace ACM.BL
         public Order(int orderID)
         {
 			this.orderID = orderID;
-			OrderItems = new List<OrderItem>(); a
+			OrderItems = new List<OrderItem>(); 
         }
 
-		public bool Validate()
+		public override bool Validate()
 		{
 			bool isValid = true;
 
@@ -27,6 +29,10 @@ namespace ACM.BL
 
 			return isValid;
 		}
+
+        public string Log() =>
+            $"{orderID}: Date: {this.orderDate.Value.Date} Status: {this.entityState.ToString()}";
+
     }
 }
 

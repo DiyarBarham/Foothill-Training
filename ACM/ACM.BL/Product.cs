@@ -1,12 +1,23 @@
 ﻿using System;
+using Acme.common;
 namespace ACM.BL
 {
-	public class Product : EntityClass
+	public class Product : EntityClass, ILoggable
 	{
         public decimal? currentPrice { get; set; }
         public String productDescription { get; set; }
-        public String productName { get; set; }
         public int productID { get; private set; }
+        private String _productName;
+        public String productName {
+            get
+            {
+                return _productName.InsertSpaces();
+            }
+            set
+            {
+                _productName = value; 
+            }
+        }
 
         public Product()
 		{
@@ -16,6 +27,9 @@ namespace ACM.BL
         {
             this.productID = productID;
         }
+
+        public string Log() =>
+            $"{productID}: {productName} Detail: {productDescription} Status: {entityState.ToString()}";
 
         public override bool Validate()
         {

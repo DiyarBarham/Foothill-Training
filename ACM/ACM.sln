@@ -9,6 +9,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{F7B6787E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACM.BLTest", "Tests\ACM.BLTest\ACM.BLTest.csproj", "{BECA2D91-8D15-47B0-9FC6-0A35869CE395}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acme.common", "Acme.common\Acme.common.csproj", "{1ADA5925-7B7D-436A-BF97-24E4B0627F34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acme.CommonTest", "Tests\Acme.CommonTest\Acme.CommonTest.csproj", "{0CCD902C-2495-4E53-9C80-7EE6D91C8810}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +27,14 @@ Global
 		{BECA2D91-8D15-47B0-9FC6-0A35869CE395}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BECA2D91-8D15-47B0-9FC6-0A35869CE395}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BECA2D91-8D15-47B0-9FC6-0A35869CE395}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ADA5925-7B7D-436A-BF97-24E4B0627F34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ADA5925-7B7D-436A-BF97-24E4B0627F34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ADA5925-7B7D-436A-BF97-24E4B0627F34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ADA5925-7B7D-436A-BF97-24E4B0627F34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CCD902C-2495-4E53-9C80-7EE6D91C8810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CCD902C-2495-4E53-9C80-7EE6D91C8810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CCD902C-2495-4E53-9C80-7EE6D91C8810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CCD902C-2495-4E53-9C80-7EE6D91C8810}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,5 +44,6 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BECA2D91-8D15-47B0-9FC6-0A35869CE395} = {F7B6787E-7CFB-4158-AF0B-A816BA061E6B}
+		{0CCD902C-2495-4E53-9C80-7EE6D91C8810} = {F7B6787E-7CFB-4158-AF0B-A816BA061E6B}
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,12 @@
+/Users/ameer1/Development/Foothill Training/ACM/Acme.common/bin/Debug/net7.0/Acme.common.deps.json
+/Users/ameer1/Development/Foothill Training/ACM/Acme.common/bin/Debug/net7.0/Acme.common.dll
+/Users/ameer1/Development/Foothill Training/ACM/Acme.common/bin/Debug/net7.0/Acme.common.pdb
+/Users/ameer1/Development/Foothill Training/ACM/Acme.common/obj/Debug/net7.0/Acme.common.csproj.AssemblyReference.cache
+/Users/ameer1/Development/Foothill Training/ACM/Acme.common/obj/Debug/net7.0/Acme.common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ameer1/Development/Foothill Training/ACM/Acme.common/obj/Debug/net7.0/Acme.common.AssemblyInfoInputs.cache
+/Users/ameer1/Development/Foothill Training/ACM/Acme.common/obj/Debug/net7.0/Acme.common.AssemblyInfo.cs
+/Users/ameer1/Development/Foothill Training/ACM/Acme.common/obj/Debug/net7.0/Acme.common.csproj.CoreCompileInputs.cache
+/Users/ameer1/Development/Foothill Training/ACM/Acme.common/obj/Debug/net7.0/Acme.common.dll
+/Users/ameer1/Development/Foothill Training/ACM/Acme.common/obj/Debug/net7.0/refint/Acme.common.dll
+/Users/ameer1/Development/Foothill Training/ACM/Acme.common/obj/Debug/net7.0/Acme.common.pdb
+/Users/ameer1/Development/Foothill Training/ACM/Acme.common/obj/Debug/net7.0/ref/Acme.common.dll

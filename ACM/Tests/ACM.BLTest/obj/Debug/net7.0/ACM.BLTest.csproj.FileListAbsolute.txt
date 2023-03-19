@@ -99,3 +99,5 @@
 /Users/ameer1/Development/Foothill Training/ACM/Tests/ACM.BLTest/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 /Users/ameer1/Development/Foothill Training/ACM/Tests/ACM.BLTest/bin/Debug/net7.0/ACM.BL.pdb
 /Users/ameer1/Development/Foothill Training/ACM/Tests/ACM.BLTest/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+/Users/ameer1/Development/Foothill Training/ACM/Tests/ACM.BLTest/bin/Debug/net7.0/Acme.common.dll
+/Users/ameer1/Development/Foothill Training/ACM/Tests/ACM.BLTest/bin/Debug/net7.0/Acme.common.pdb
