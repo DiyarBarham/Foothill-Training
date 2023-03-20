@@ -1,4 +1,23 @@
 ﻿<Properties StartupConfiguration="{8F42E9C2-A61A-4366-9AEC-EE8AB9901475}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.TopKFrequentElements FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TopKFrequentElements PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TopKFrequentElements/Program.cs">
+    <Files>
+      <File FileName="TopKFrequentElements/Program.cs" Line="14" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TopKFrequentElements " expanded="True">
+            <Node name="TopKFrequentElements" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>

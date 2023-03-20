@@ -1,0 +1,15 @@
+/Users/ameer1/Development/Foothill Training/LeetCode/ProductofArrayExceptSelf/ProductofArrayExceptSelf/bin/Debug/net7.0/ProductofArrayExceptSelf
+/Users/ameer1/Development/Foothill Training/LeetCode/ProductofArrayExceptSelf/ProductofArrayExceptSelf/bin/Debug/net7.0/ProductofArrayExceptSelf.deps.json
+/Users/ameer1/Development/Foothill Training/LeetCode/ProductofArrayExceptSelf/ProductofArrayExceptSelf/bin/Debug/net7.0/ProductofArrayExceptSelf.runtimeconfig.json
+/Users/ameer1/Development/Foothill Training/LeetCode/ProductofArrayExceptSelf/ProductofArrayExceptSelf/bin/Debug/net7.0/ProductofArrayExceptSelf.dll
+/Users/ameer1/Development/Foothill Training/LeetCode/ProductofArrayExceptSelf/ProductofArrayExceptSelf/bin/Debug/net7.0/ProductofArrayExceptSelf.pdb
+/Users/ameer1/Development/Foothill Training/LeetCode/ProductofArrayExceptSelf/ProductofArrayExceptSelf/obj/Debug/net7.0/ProductofArrayExceptSelf.csproj.AssemblyReference.cache
+/Users/ameer1/Development/Foothill Training/LeetCode/ProductofArrayExceptSelf/ProductofArrayExceptSelf/obj/Debug/net7.0/ProductofArrayExceptSelf.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ameer1/Development/Foothill Training/LeetCode/ProductofArrayExceptSelf/ProductofArrayExceptSelf/obj/Debug/net7.0/ProductofArrayExceptSelf.AssemblyInfoInputs.cache
+/Users/ameer1/Development/Foothill Training/LeetCode/ProductofArrayExceptSelf/ProductofArrayExceptSelf/obj/Debug/net7.0/ProductofArrayExceptSelf.AssemblyInfo.cs
+/Users/ameer1/Development/Foothill Training/LeetCode/ProductofArrayExceptSelf/ProductofArrayExceptSelf/obj/Debug/net7.0/ProductofArrayExceptSelf.csproj.CoreCompileInputs.cache
+/Users/ameer1/Development/Foothill Training/LeetCode/ProductofArrayExceptSelf/ProductofArrayExceptSelf/obj/Debug/net7.0/ProductofArrayExceptSelf.dll
+/Users/ameer1/Development/Foothill Training/LeetCode/ProductofArrayExceptSelf/ProductofArrayExceptSelf/obj/Debug/net7.0/refint/ProductofArrayExceptSelf.dll
+/Users/ameer1/Development/Foothill Training/LeetCode/ProductofArrayExceptSelf/ProductofArrayExceptSelf/obj/Debug/net7.0/ProductofArrayExceptSelf.pdb
+/Users/ameer1/Development/Foothill Training/LeetCode/ProductofArrayExceptSelf/ProductofArrayExceptSelf/obj/Debug/net7.0/ProductofArrayExceptSelf.genruntimeconfig.cache
+/Users/ameer1/Development/Foothill Training/LeetCode/ProductofArrayExceptSelf/ProductofArrayExceptSelf/obj/Debug/net7.0/ref/ProductofArrayExceptSelf.dll
