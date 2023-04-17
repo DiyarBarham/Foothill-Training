@@ -6,6 +6,7 @@ namespace Price_Calculater_Kata
 		public String? name { get; set; }
 		public int? upc { get; set; }
 		public double price { get; set; }
+		public double discount { get; set; }
 
 		public Product()
 		{
@@ -16,11 +17,20 @@ namespace Price_Calculater_Kata
 			this.name = name;
 			this.upc = upc;
 			this.price = (double) price;
+			this.discount = 0;
 		}
+
+        public Product(String? name, int? upc, double? price, double discount)
+        {
+            this.name = name;
+            this.upc = upc;
+            this.price = (double)price;
+            this.discount = discount;
+        }
 
         public override string ToString()
         {
-            return "Product: " + name + " UPC: " + upc + " Price: " + price;
+            return $"Product: {name} UPC: {upc} Price: {price} Discount: {discount}";
         }
     }
 }
