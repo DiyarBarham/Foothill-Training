@@ -66,6 +66,11 @@ namespace Price_Calculater_Kata
             Console.WriteLine($"Product price before is {printPrice(p.price)}" +
                 $" and after is {printPrice(
                     p.price + (p.price * tax) - (p.price * discount))}");
+            if(discount != 0)
+            {
+                Console.WriteLine($"Deduced amount by discount is " +
+                    $"{printPrice(p.price * discount)}");
+            }
         }
     }
 }
