@@ -1,0 +1,15 @@
+/Users/ameer1/Development/Foothill Training/Price Calculater Kata/obj/Debug/net7.0/Price Calculater Kata.csproj.AssemblyReference.cache
+/Users/ameer1/Development/Foothill Training/Price Calculater Kata/obj/Debug/net7.0/Price Calculater Kata.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ameer1/Development/Foothill Training/Price Calculater Kata/obj/Debug/net7.0/Price Calculater Kata.AssemblyInfoInputs.cache
+/Users/ameer1/Development/Foothill Training/Price Calculater Kata/obj/Debug/net7.0/Price Calculater Kata.AssemblyInfo.cs
+/Users/ameer1/Development/Foothill Training/Price Calculater Kata/obj/Debug/net7.0/Price Calculater Kata.csproj.CoreCompileInputs.cache
+/Users/ameer1/Development/Foothill Training/Price Calculater Kata/bin/Debug/net7.0/Price Calculater Kata
+/Users/ameer1/Development/Foothill Training/Price Calculater Kata/bin/Debug/net7.0/Price Calculater Kata.deps.json
+/Users/ameer1/Development/Foothill Training/Price Calculater Kata/bin/Debug/net7.0/Price Calculater Kata.runtimeconfig.json
+/Users/ameer1/Development/Foothill Training/Price Calculater Kata/bin/Debug/net7.0/Price Calculater Kata.dll
+/Users/ameer1/Development/Foothill Training/Price Calculater Kata/bin/Debug/net7.0/Price Calculater Kata.pdb
+/Users/ameer1/Development/Foothill Training/Price Calculater Kata/obj/Debug/net7.0/Price Calculater Kata.dll
+/Users/ameer1/Development/Foothill Training/Price Calculater Kata/obj/Debug/net7.0/refint/Price Calculater Kata.dll
+/Users/ameer1/Development/Foothill Training/Price Calculater Kata/obj/Debug/net7.0/Price Calculater Kata.pdb
+/Users/ameer1/Development/Foothill Training/Price Calculater Kata/obj/Debug/net7.0/Price Calculater Kata.genruntimeconfig.cache
+/Users/ameer1/Development/Foothill Training/Price Calculater Kata/obj/Debug/net7.0/ref/Price Calculater Kata.dll
