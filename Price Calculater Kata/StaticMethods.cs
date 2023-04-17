@@ -14,6 +14,7 @@ namespace Price_Calculater_Kata
             Console.WriteLine("2- Change Tax value");
             Console.WriteLine("3- print product details");
             Console.WriteLine("4- print product price before and after TAX");
+            Console.WriteLine("5- Change discount value");
         }
 
 		public static Product newProduct()
@@ -56,6 +57,15 @@ namespace Price_Calculater_Kata
             Product? p = findProduct(productsList);
             Console.WriteLine($"Product price before tax is {printPrice(p.price)}" +
                 $" and after TAX is {printPrice(p.price + p.price*tax)}");
+        }
+
+        public static void printProductPrice(List<Product> productsList, double tax
+            , double discount)
+        {
+            Product? p = findProduct(productsList);
+            Console.WriteLine($"Product price before is {printPrice(p.price)}" +
+                $" and after is {printPrice(
+                    p.price + (p.price * tax) - (p.price * discount))}");
         }
     }
 }

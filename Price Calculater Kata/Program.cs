@@ -3,7 +3,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        double tax = 0.2;
+        double tax = 0.2, discount=0;
         int choice = 0;
         List<Product> productsList = new List<Product>();
         while (true)
@@ -25,6 +25,14 @@ class Program
             } else if (choice == 4)
             {
                 StaticMethods.printProductPrice(productsList, tax);
+
+            } else if (choice == 5)
+            {
+                discount = Convert.ToDouble(Console.ReadLine());
+
+            } else if (choice == 6)
+            {
+                StaticMethods.printProductPrice(productsList, tax, discount);
             }
         }
         
