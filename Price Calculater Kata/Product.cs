@@ -7,8 +7,9 @@ namespace Price_Calculater_Kata
 		public int? upc { get; set; }
 		public double price { get; set; }
 		public double discount { get; set; }
-
-		public Product()
+		public double packageCost { get; set; }
+        public double transportCost { get; set; }
+        public Product()
 		{
 		}
 
