@@ -65,39 +65,68 @@ namespace Price_Calculater_Kata
             , double discount)
         {
             Product? p = findProduct(productsList);
-            Console.WriteLine("If you want TAX after discount press 1 and if before press 2:");
+            Console.WriteLine("If you want TAX after discount " +
+                "press 0 and if before press 1:");
             int c = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine($"Cost = {p.price}");
-            double discountedPrice = p.price - (p.price * p.discount);
 
-            if (p.discount != 0)
-            {
-                Console.WriteLine($"Discount = {printPrice(p.price * p.discount +
-                    discountedPrice * discount)}");
-            } else
-            {
-                Console.WriteLine($"Discount = {printPrice(p.price * discount)}");
-            }
+            Console.WriteLine("If you want additive discount " +
+                "press 0 and if multiplicative press 1:");
+            int discountType = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine($"Cost = {p.price}");
+
+            //SimpleSumDiscount(p, discountedPrice, discount);
+            double[] discountStatments = new double[] {
+                p.price * (1-p.discount) + p.price * (1- discount),
+                p.price * (1-p.discount) * (1-discount)
+            };
+            Console.WriteLine($"Discount = {printPrice(
+                discountStatments[discountType])}");
 
             Console.WriteLine($"Packaging  = {printPrice(p.price * p.packageCost)}");
             Console.WriteLine($"Transport = {printPrice(p.transportCost)}");
 
-            if (c == 1)
-            {
-                Console.WriteLine($"TAX = {printPrice(discountedPrice * tax)}");
+            //if (c == 1)
+            //{
+            //    Console.WriteLine($"TAX = {printPrice(discountedPrice * tax)}");
                 
-            } else
-            {
-                Console.WriteLine($"TAX = {printPrice(p.price * tax)}");
-            }
-            Console.WriteLine($"TOTAL = {printPrice(discountedPrice * tax -
-                    discountedPrice * discount + p.price * p.packageCost +
+            //} else
+            //{
+            //    Console.WriteLine($"TAX = {printPrice(p.price * tax)}");
+            //}
+            string[] printStatments = new string[] {
+                $"TAX = {printPrice(discountStatments[discountType] * tax)}",
+                $"TAX = {printPrice(p.price * tax)}"
+            };
+            Console.WriteLine(printStatments[c]);
+
+
+            Console.WriteLine($"TOTAL = {printPrice(
+                discountStatments[discountType] * tax -
+                    discountStatments[discountType] * discount +
+                    p.price * p.packageCost +
                     p.transportCost)}");
             if (discount != 0 || p.discount !=0)
             {
                 Console.WriteLine($"Deduced amount by discount is " +
-                    $"{printPrice(discountedPrice - p.price + discountedPrice * p.discount)}");
+                    $"{printPrice(discountStatments[discountType] - p.price +
+                    discountStatments[discountType] * p.discount)}");
             }
+        }
+
+
+        public static void AdditiveDiscount(Product? p,
+            double discountedPrice, double discount)
+        {
+                Console.WriteLine($"Discount = {printPrice(p.price * p.discount +
+                    discountedPrice * discount)}");
+        }
+
+        public static void MultiplicaativeDiscount(Product? p,
+            double discountedPrice, double discount)
+        {
+            Console.WriteLine($"Discount = {printPrice(p.price * p.discount +
+                discountedPrice * discount)}");
         }
     }
 }
