@@ -28,7 +28,10 @@ namespace Price_Calculater_Kata
             Console.WriteLine("Enter product discount:");
             double discount = Convert.ToDouble(Console.ReadLine());
 
-            return new Product(name, upc, price, discount);
+
+            Console.WriteLine("Enter product cap:");
+            double cap = Convert.ToDouble(Console.ReadLine());
+            return new Product(name, upc, price, discount, cap);
         }
 
         public static Product? findProduct(List<Product> productsList)
@@ -74,12 +77,15 @@ namespace Price_Calculater_Kata
             int discountType = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine($"Cost = {p.price}");
-
+            double cappedValue = p.price * p.cap,
+                addValue = p.price * (1 - p.discount) + p.price * (1 - discount),
+                multiValue = p.price * (1 - p.discount) * (1 - discount);
             //SimpleSumDiscount(p, discountedPrice, discount);
             double[] discountStatments = new double[] {
-                p.price * (1-p.discount) + p.price * (1- discount),
-                p.price * (1-p.discount) * (1-discount)
+                cappedValue > addValue ? cappedValue : addValue,
+                cappedValue > multiValue ? cappedValue : multiValue
             };
+
             Console.WriteLine($"Discount = {printPrice(
                 discountStatments[discountType])}");
 
