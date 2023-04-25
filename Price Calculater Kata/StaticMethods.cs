@@ -3,9 +3,16 @@ namespace Price_Calculater_Kata
 {
 	public static class StaticMethods
 	{
-		public static String printPrice(double price)
+        public static String currency;
+        public static void selectCurrency()
+        {
+            Console.WriteLine("Enter the Currency you want to use:");
+            currency = Console.ReadLine();
+        }
+
+        public static String printPrice(double price)
 		{
-			return $"${price.ToString("F")}";
+			return $"{price.ToString("F")} " + currency;
 		}
 
         public static void menu()
